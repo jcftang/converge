@@ -58,6 +58,7 @@ import:
   subpackages:
   - unix
 - package: gopkg.in/yaml.v2
+  repo: https://github.com/go-yaml/yaml.git
 - package: github.com/streamrail/concurrent-map
 - package: github.com/stretchr/objx
 - package: github.com/mitchellh/hashstructure

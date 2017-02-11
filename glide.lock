@@ -239,4 +239,5 @@ imports:
   - transport
 - name: gopkg.in/yaml.v2
   version: a83829b6f1293c91addabc89d0571c246397bbf4
+  repo: https://github.com/go-yaml/yaml.git
 testImports: []
